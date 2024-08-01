@@ -1,0 +1,8 @@
+name: mldm_cw
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.6
+  - numpy=1.23.4
+  - matplotlib=3.7.1
+  - scikit-learn=1.2.2
